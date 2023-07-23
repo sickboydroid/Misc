@@ -1,0 +1,31 @@
+footer {
+   display: flex;
+   flex-direction: column;
+}
+
+.footer-section-1 {
+   background-color: #C8C10D;
+   display: flex;
+   justify-content: space-evenly;
+}
+
+.footer-section-1 img {
+   width: 40px;
+}
+
+.footer-section-2 {
+   background-color: #CB3362;
+   display: flex;
+   justify-content: center;
+   column-gap: 30px;
+   padding: 20px;
+}
+
+.footer-section-2 img {
+   filter: invert();
+   width: 25px;
+}
+
+footer>p {
+   background-color: #CB3362;
+}

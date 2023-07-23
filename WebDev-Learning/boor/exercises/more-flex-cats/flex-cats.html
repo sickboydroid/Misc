@@ -1,0 +1,87 @@
+<style>
+   :root {
+      font-family: Arial, Helvetica, sans-serif;
+   }
+
+   p {
+      margin: 0px;
+   }
+
+   .card-container {
+      width: 425px;
+      padding: 8px 10px 10px 14px;
+      box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.25);
+      margin-bottom: 40px;
+   }
+
+   .inbox-title {
+      margin-bottom: 20px;
+      color: gray;
+      font-size: 14px;
+   }
+
+   .inbox-body {
+      display: flex;
+      flex-flow: row nowrap;
+      column-gap: 10px;
+   }
+
+   .profile-picture {
+      width: 50px;
+      height: 50px;
+      object-fit: fill;
+      border-radius: 50%;
+   }
+
+   .container-message {
+      flex: 1;
+      display: grid;
+      grid-template-columns: 1fr;
+   }
+
+   .container-message-heading {
+      display: grid;
+      grid-template-columns: 1fr 80px;
+      align-content: center;
+   }
+
+   .sender-name {
+      font-weight: bold;
+   }
+
+   .received-time {
+      color: gray;
+   }
+
+   .message-subject {
+      font-weight: bold;
+      margin-top: 8px;
+   }
+
+   .message-content {
+      margin-top: 2px;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+   }
+</style>
+
+<body>
+   <div class="card-container">
+      <p class="inbox-title">ALL INBOXES</p>
+      <div class="inbox-body">
+         <div class="container-profile-picture">
+            <img src="images/cat1.jpeg" class="profile-picture">
+         </div>
+         <div class="container-message">
+            <div class="container-message-heading">
+               <p class="sender-name">Chewy Promotions</p>
+               <p class="received-time">4:58 PM</p>
+            </div>
+            <p class="message-subject">Biggest sales of the year!</p>
+            <p class="message-content">Hey there! We're writing tot tell you about our new fggjkkfhgjkfgh fhgjkfghfdhkg
+               jkfhgjhjdkfgh</p>
+         </div>
+      </div>
+   </div>
+</body>

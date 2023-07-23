@@ -1,0 +1,51 @@
+<style>
+    .def-grid {
+        display: grid;
+    }
+    .grid1 {
+        grid-template-columns: 150px 50px 200px
+    }
+
+    .box {
+        min-height: 50px;
+        background-color: lightblue;
+        border-style: solid;
+        border-color: blue;
+        margin: 5px;
+    }
+
+    .grid2 {
+        grid-template-columns: 1fr 2fr 2fr 2fr;
+    }
+</style>
+
+<body>
+    <div class="box">Normal box</div>
+    <div class="def-grid grid1">
+        <div class="box"></div>
+        <div class="box"></div>
+        <div class="box"></div>
+        <div class="box"></div>
+        <div class="box"></div>
+        <div class="box"></div>
+        <div class="box"></div>
+        <div class="box"></div>
+        <div class="box"></div>
+    </div>
+    <div class="grid2 def-grid">
+        <div class="box"></div>
+        <div class="box"></div>
+        <div class="box"></div>
+        <div class="box"></div>
+        <div class="box"></div>
+        <div class="box"></div>
+        <div class="box"></div>
+        <div class="box"></div>
+        <div class="box"></div>
+    </div>
+</body>
+
+<!-- 
+    Grid always aligns its children
+    fr = free space
+ -->

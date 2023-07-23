@@ -1,0 +1,45 @@
+main {
+   display: flex;
+   flex-direction: column;
+}
+
+.bg-main-wrapper {
+   position: relative;
+   background-color: lightblue;
+   display: flex;
+   justify-content: center;
+   width: 100%;
+}
+
+.bg-home {
+   width: 90%;
+}
+
+.freeze-delight-container {
+   position: absolute;
+   bottom: 0;
+   right: 0;
+}
+
+.freeze-delight-container>p {
+   position: absolute;
+   bottom: 20px;
+   right: 0;
+}
+
+.new-product {
+   display: flex;
+   flex-direction: row;
+   background-color: #EAE7E8;
+}
+
+.new-product>img {
+   width: 120px;
+}
+
+.new-product-info {
+   flex: 1;
+   display: flex;
+   flex-direction: column;
+   justify-content: space-evenly;
+}

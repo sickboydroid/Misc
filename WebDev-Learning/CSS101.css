@@ -1,0 +1,74 @@
+/* Applied to all the elements */
+
+/*
+Selectors:
+    *
+    div, p
+    div p all p tags inside div
+    div > p all p tags one level deep in div
+    div + p p tags immediately after div
+    .class
+    #id
+    div.class divs with certain class
+    div#id divs with ceratin ID
+    #id * all elements inside tag with ID id
+
+Pseudo selectors:
+    A:hover
+    A:active
+    A:visited
+    div:empty
+
+Attribute selectors:
+    a[target] links with target attribute
+    input[type="button"]
+    [title~="chair"] title element containg chair word
+    [class^="chair"] class starts with chair
+    [class*="chair"] class contains chair
+    [class$="chair] class ends with chair
+*/
+
+/* 
+Box model:
+    Margin: space around the boundry
+    Border: surrounds the element
+    Padding: space b/w border and content
+    Content: ...
+*/
+
+/*
+Units:
+    pixel: actual pixels
+    points: 72 points = 1 inch
+    ems: 1 em = current font size
+    percent: 100% = current font size
+ */
+ * {
+    font-family: cursive;
+ }
+
+ p {
+    padding: 2%;
+ }
+
+ div {
+    box-shadow: 10px;
+ }
+
+ div#article {
+    background-color: #282828;
+ }
+
+ div#article p {
+    color: white;
+ }
+
+ strong:hover {
+    background-color: yellow;
+    color: black;
+ }
+
+ .clickable-image:hover {
+    width: 40%;
+    border: 5px solid orange;
+ }

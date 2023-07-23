@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+
+<style>
+   :root {
+      font-family: Arial, Helvetica, sans-serif;
+   }
+
+   .container {
+      margin-left: 100px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      width: 600px;
+      height: 400px;
+      background-color: #F4E8D5;
+   }
+
+   .title {
+      color: #6443EB;
+      font-weight: bolder;
+      font-size: 24px;
+      margin-bottom: 0;
+   }
+
+   .sub-title {
+      font-size: 12px;
+      margin-top: 14px;
+   }
+
+   .card-container {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      width: 70%;
+      /* background-color: #191C29;
+      background-image: linear-gradient(20deg, red, rgba(0, 0, 0, 0), green, pink);
+      */
+      background-image: linear-gradient(red, yellow 20%, green 50%);
+      height: 250px;
+      color: white;
+
+   }
+
+   .card-container:hover {
+      background-image: radial-gradient(yellow, red, blue, green, aqua);
+   }
+
+   .magic-text {
+      color: #5cc2f6;
+      font-size: 20px;
+      font-weight: bold;
+      font-family: cursive;
+   }
+</style>
+
+<body>
+   <div class="container">
+      <p class="title">CSS Glow Effect Animation Example</p>
+      <p class="sub-title">A pure CSS gradient color glow effect animation</p>
+      <div class="card-container">
+         <p class="magic-text">Magic Card</p>
+      </div>
+   </div>
+</body>

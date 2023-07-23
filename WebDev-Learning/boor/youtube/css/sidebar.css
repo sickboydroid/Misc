@@ -1,0 +1,39 @@
+.sidebar {
+   position: fixed;
+   display: flex;
+   flex-direction: column;
+   align-items: stretch;
+   top: 70px;
+   left: 0px;
+   bottom: 0px;
+   width: 80px;
+   z-index: 100;
+   box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.04);
+}
+
+.sidebar-icon {
+   width: 30px;
+}
+
+.sidebar-item-container {
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+
+   padding-bottom: 20px;
+   padding-top: 20px;
+   transition: background-color 0.15s;
+   cursor: pointer;
+}
+
+.sidebar-icon-name {
+   font-size: 12px;
+}
+
+.sidebar-item-container:hover {
+   background-color: rgb(221, 221, 221);
+}
+
+.sidebar-item-container:active {
+   background-color: lightgray;
+}

@@ -1,0 +1,102 @@
+<style>
+   * {
+      font-family: Arial, Helvetica, sans-serif;
+   }
+   .first-sidebar {
+      position: fixed;
+      background-color: rgb(32, 34, 37);
+      top:0;
+      bottom:0;
+      left:0;
+      width:72px;
+      display: flex;
+      flex-direction: column;
+      row-gap: 15px;
+      align-items: center;
+      padding-top: 20px;
+   }
+
+   .profile-picture {
+      width:40px;
+      height: 40px;
+      object-fit: cover;
+      border-radius: 20px;
+      transition: box-shadow 0.25s;
+      cursor: pointer;
+   }
+
+   .profile-picture:hover {
+      box-shadow: 0px 0px 15px rgba(255, 255, 255,0.4);
+   }
+
+   .second-sidebar {
+      position: fixed;
+      background-color: rgb(47, 49, 54);
+      top:0;
+      bottom:0;
+      left:0;
+      margin-left: 72px;
+      width:230px;
+      display:flex;
+      flex-direction: column;
+      padding: 10px;
+   }
+
+   .info-container {
+      display:flex;
+      align-items: center;
+      padding-left: 5px;
+   }
+
+   .info {
+      flex:1;
+      color: white;
+      cursor:pointer;
+   }
+
+   .add-icon {
+      opacity: 0.6;
+      width: 20px;
+      height: 20px;
+      padding: 5px;
+      cursor: pointer;
+   }
+
+   .add-icon:hover {
+      opacity: 0.4;
+   }
+   .add-icon:active {
+      opacity: 0.2;
+   }
+
+   .invert-colors {
+      filter: invert();
+   }
+
+   .hashtag {
+      color: grey;
+      margin:5px 0px 10px 5px;
+      cursor: pointer;
+   }
+   .hashtag:hover {
+      opacity: 0.8;
+   }
+</style>
+
+<body>
+   <div class="first-sidebar">
+         <img class="profile-picture" src="cats/cat2.jpeg">
+         <img class="profile-picture" src="cats/cat1.jpeg">
+         <img class="profile-picture" src="cats/cat3.jpeg">
+         <img class="profile-picture" src="cats/cat2.jpeg">
+   </div>
+   <div class="second-sidebar">
+      <div class="info-container">
+         <p class="info">INFO</p>
+         <img src="cats/add.png" class="invert-colors add-icon">
+      </div>
+        <p class="hashtag"># new-videos</p>
+        <p class="hashtag"># old-vieos</p>
+        <p class="hashtag"># faq</p>
+   </div>
+</body>

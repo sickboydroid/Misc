@@ -1,0 +1,107 @@
+* {
+    font-family: roboto, arial;
+    margin: 0;
+}
+
+body {
+    padding-left: 100px;
+    padding-right: 25px;
+}
+
+p {
+    margin: 0px;
+}
+
+.container-main {
+    display: flex;
+    flex-wrap: wrap;
+    row-gap: 40px;
+    column-gap: 20px;
+
+}
+
+.card {
+    flex: 1;
+    vertical-align: top;
+    min-width: 350px;
+}
+
+.thumbnail-container {
+    position: relative;
+}
+
+.thumbnail {
+    min-width: 10px;
+    max-width: 100%;
+    border-radius: 6px;
+}
+
+.duration {
+    position: absolute;
+    background-color: black;
+    right: 10px;
+    bottom: 10px;
+    color: white;
+    padding: 4px;
+    font-size: 12px;
+    font-weight: 500;
+    border-radius: 2px;
+}
+
+.video-info {
+    display: inline-block;
+    width: 80%;
+}
+
+.video-title {
+    font-size: 16px;
+    margin-top: 10px;
+    font-weight: 500;
+    line-height: 19px;
+}
+
+.channel-name {
+    margin-top: 10px;
+    color: rgb(77, 76, 76);
+    font-size: 12px;
+}
+
+.channel-status {
+    margin-top: 5px;
+    color: rgb(77, 76, 76);
+    font-size: 12px;
+}
+
+.container-channel-profile {
+    display: inline-block;
+    width: 14%;
+    vertical-align: top;
+    margin-top: 15px;
+    margin-right: 8px;
+}
+
+.channel-profile {
+    border-radius: 50px;
+    display: inline-block;
+    width: 100%;
+}
+
+@media (width <=650px) {
+    .card {
+        min-width: 200px;
+    }
+}
+
+@media (650px < width <=900px) {
+    .card {
+        min-width: 240px;
+    }
+}
+
+/* three  */
+@media (900 < width <=1080px) {
+    .card {
+        min-width: 400px;
+        background-color: green;
+    }
+}

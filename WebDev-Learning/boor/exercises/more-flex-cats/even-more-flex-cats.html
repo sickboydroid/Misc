@@ -1,0 +1,127 @@
+<style>
+   :root {
+      font-family: Arial, Helvetica, sans-serif;
+   }
+
+   p {
+      margin: 0px;
+   }
+
+   .cards-container {
+      box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.25);
+      width: 425px; 
+      padding-top: 10px;
+      padding-left: 15px;
+      padding-bottom: 10px;
+   }
+
+   .card-container {
+      padding: 8px 10px 10px 0px;
+      margin-bottom: 8px;
+   }
+
+   .inbox-title {
+      color: gray;
+      font-size: 14px;
+      padding-bottom: 10px;
+   }
+
+   .inbox-body {
+      display: flex;
+      flex-flow: row nowrap;
+      column-gap: 10px;
+   }
+
+   .profile-picture {
+      width: 50px;
+      height: 50px;
+      object-fit: fill;
+      border-radius: 50%;
+   }
+
+   .container-message {
+      flex: 1;
+      display: grid;
+      grid-template-columns: 1fr;
+   }
+
+   .container-message-heading {
+      display: grid;
+      grid-template-columns: 1fr 80px;
+      align-content: center;
+   }
+
+   .sender-name {
+      font-weight: bold;
+   }
+
+   .received-time {
+      color: gray;
+   }
+
+   .message-subject {
+      font-weight: bold;
+      margin-top: 8px;
+   }
+
+   .message-content {
+      margin-top: 2px;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+   }
+</style>
+
+<body>
+   <div class="cards-container">
+      <p class="inbox-title">ALL INBOXES</p>
+      <div class="card-container">
+         <div class="inbox-body">
+            <div class="container-profile-picture">
+               <img src="images/cat1.jpeg" class="profile-picture">
+            </div>
+            <div class="container-message">
+               <div class="container-message-heading">
+                  <p class="sender-name">Chewy Promotions</p>
+                  <p class="received-time">4:58 PM</p>
+               </div>
+               <p class="message-subject">Biggest sales of the year!</p>
+               <p class="message-content">Hey there! We're writing tot tell you about our new fggjkkfhgjkfgh fhgjkfghfdhkg
+                  jkfhgjhjdkfgh</p>
+            </div>
+         </div>
+      </div>
+
+      <div class="card-container">
+         <div class="inbox-body">
+            <div class="container-profile-picture">
+               <img src="images/cat2jpeg.jpeg" class="profile-picture">
+            </div>
+            <div class="container-message">
+               <div class="container-message-heading">
+                  <p class="sender-name">Beast Buy</p>
+                  <p class="received-time">12:32 PM</p>
+               </div>
+               <p class="message-subject">Your Best Buy eReceipt</p>
+               <p class="message-content">Thank you for shoppin at Best Buy, here is somefhjkdhfhsdfh</p>
+            </div>
+         </div>
+      </div>
+      <div class="card-container">
+         <div class="inbox-body">
+            <div class="container-profile-picture">
+               <img src="images/cat3.webp" class="profile-picture">
+            </div>
+            <div class="container-message">
+               <div class="container-message-heading">
+                  <p class="sender-name">Netflix</p>
+                  <p class="received-time">9:00 AM</p>
+               </div>
+               <p class="message-subject">Here's what's coming on Netflix</p>
+               <p class="message-content">Brand new movies and shows, old favorites and more stuff be dfasfs</p>
+            </div>
+         </div>
+      </div>
+      
+</div>
+</body>

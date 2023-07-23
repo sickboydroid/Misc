@@ -1,0 +1,21 @@
+{% extends "layout.html" %}
+
+{% block head %}Create account{% endblock %}
+
+{% block body %}
+
+<h1>LOGIN</h1>
+<form action="/login" method="post">
+    <div>
+        <label for="password">Username:</label>
+        <input type="name" name="username" autocomplete="off" autofocus required>
+    </div>
+    <div>
+        <label for="password">Password:</label>
+        <input type="password" name="password" required>
+    </div>
+    <input type="submit" value="Login Account">
+</form>
+<a href="/create-account">Create Account</a>
+
+{% endblock %}

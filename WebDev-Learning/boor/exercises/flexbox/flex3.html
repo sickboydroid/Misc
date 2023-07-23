@@ -1,0 +1,60 @@
+<style>
+    * {
+        margin: 0;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+
+    .box {
+        background-color: lightblue;
+        border-style: solid;
+        border-color: blue;
+        min-height: 50px;
+        width: 200px;
+        margin: 0.5px;
+    }
+
+    .container {
+        height: 500px;
+        border-style: solid;
+        border-color: lightgray;
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: space-around;
+        align-items: flex-start;
+        align-content: start;
+        row-gap: 50px;
+    }
+
+</style>
+<body>
+    <div class="container">
+        <div style="order: 3;" class="box">1</div>
+        <div style="order: 2;" class="box">2</div>
+        <div style="order: -1;" class="box">3</div>
+        <div class="box">4</div>
+        <div class="box">5</div>
+        <div class="box">6</div>
+        <div class="box">7</div>
+        <div class="box">8</div>
+        <div class="box">9</div>
+        <div class="box">10</div>
+        <div class="box"></div>
+        <div class="box"></div>
+        <div class="box"></div>
+        <div class="box"></div>
+        <div class="box"></div>
+        <div class="box"></div>
+    </div>
+</body>
+
+
+<!-- 
+    There are two axis in flex-box:
+        MAIN axis: horizontal in case flex-direction is
+                   row and vertical in case flex direcion is colume
+        CROSS axis: Axis perp. to MAIN axis
+
+        justify-content -> align items alon MAIN axis
+
+ -->

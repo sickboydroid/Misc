@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Basic HTML</Html:5>
+    </title>
+    <meta name="description" content="Some basic html elements and their attributes">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="">
+</head>
+<script>
+    function submit() {
+        alert("Your form has been submitted")
+    }
+</script>
+
+<body>
+
+    <h1>Form</h1>
+    <div id="reg-form">
+        <form method="submit()">
+            <div>
+                <label for="first-name">First Name</label>
+                <input type="text" name="first-name" placeholder="junaid" required>
+                <input type="number" name="age" placeholder="18" required>
+                <input type="text" name="region" placeholder="inida" required>
+            </div>
+
+            <div>
+                <label for="gender"><strong>Gender: </strong></label>
+                <label for="gender-male">Male</label>
+                <input title="male" type="radio" name="gender" value="male">
+                <label for="gender-female">Female</label>
+                <input title="female" type="radio" name="gender" value="female">
+                <label for="gender-other">Other</label>
+                <input title="other" type="radio" name="gender" value="other">
+            </div>
+            <div>
+                <label>Email</label>
+                <input type="email" placeholder="sickboydroid@gmail.com" name="user-mail">
+
+                <label>Password</label>
+                <input type="password" name="Password">
+            </div>
+
+            <div>
+                <Label for="month">Select Month of death:</Label>
+                <select name="month">
+                    <option value="0" selected disabled>Month</option>
+                    <option value="jan" disabled>Jan</option>
+                    <option value="feb">Feb</option>
+                    <option value="march">march</option>
+                    <option value="april">April</option>
+                    <option value="may">May</option>
+                    <option value="june">June</option>
+                    <option value="july">July</option>
+                </select>
+            </div>
+            <div>
+                ̥<label>Birthday: </label>
+                .<input type="date" name="birthday">
+            </div>
+            <div>
+                ,<input type="checkbox" name="agree" required>
+                <label for="agree">I agree to all the terms</label>
+                <label for="submit">Submit</label>
+                <input type="button" name="submit" title="submit">
+            </div>
+            <button type="submit">Submit</button>
+        </form>
+    </div>
+</body>
+
+</html>
