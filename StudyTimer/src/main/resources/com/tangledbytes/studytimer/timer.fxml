@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="131.0" prefWidth="299.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.tangledbytes.studytimer.TimerController">
+   <children>
+      <Label fx:id="labelTime" alignment="CENTER" layoutX="35.0" layoutY="32.0" prefHeight="66.0" prefWidth="223.0" text="05:00:000">
+         <font>
+            <Font size="43.0" />
+         </font>
+      </Label>
+      <Button layoutX="158.0" layoutY="97.0" mnemonicParsing="false" onAction="#onClickResetTimer" prefHeight="26.0" prefWidth="73.0" text="Start" />
+      <Button layoutX="73.0" layoutY="97.0" mnemonicParsing="false" onAction="#onClickClose" prefHeight="26.0" prefWidth="74.0" text="Close" />
+      <Label layoutX="22.0" layoutY="14.0" text="Completed:" textFill="#2600ff" />
+      <Label layoutX="173.0" layoutY="14.0" text="Studied:" textFill="#1500ff" />
+      <Label fx:id="labelCompletedSessions" layoutX="90.0" layoutY="15.0" text="0" />
+      <Label fx:id="labelFocusedTime" layoutX="222.0" layoutY="15.0" text="0 MInutes" />
+   </children>
+</AnchorPane>
