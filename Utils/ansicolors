@@ -1,0 +1,10 @@
+#!/usr/bin/python3
+
+"""
+Helpful utility python script for quickly checking about colors on terminal
+"""
+
+for i in range(108):
+    print(f'\033[{i}m{i} gives this\033[0m')
+
+print("\nFormat: '\033[1m\\033[<num>m\033[0m' where 0 <= num <= 107")
