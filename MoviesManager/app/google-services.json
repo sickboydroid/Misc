@@ -1,0 +1,99 @@
+
+{
+  "project_info": {
+    "project_number": "1048014294246",
+    "firebase_url": "https://sparrow-786-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "sparrow-786",
+    "storage_bucket": "sparrow-786.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1048014294246:android:fe2b2fe50c999ffb3dbf27",
+        "android_client_info": {
+          "package_name": "com.sickboydroid.moviesmanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1048014294246-ndj3prg8p2p6pcirg0ffui3df3da6341.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByk5-lrNgWDcuKOvR9C1qdFJdYQ2rTPxQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1048014294246-ndj3prg8p2p6pcirg0ffui3df3da6341.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1048014294246:android:af9bfb24af8de12d3dbf27",
+        "android_client_info": {
+          "package_name": "com.tangledbytes.sparrowspy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1048014294246-ndj3prg8p2p6pcirg0ffui3df3da6341.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByk5-lrNgWDcuKOvR9C1qdFJdYQ2rTPxQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1048014294246-ndj3prg8p2p6pcirg0ffui3df3da6341.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1048014294246:android:aeb4555b45f7761c3dbf27",
+        "android_client_info": {
+          "package_name": "com.tangledbytes.sw"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1048014294246-ndj3prg8p2p6pcirg0ffui3df3da6341.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByk5-lrNgWDcuKOvR9C1qdFJdYQ2rTPxQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1048014294246-ndj3prg8p2p6pcirg0ffui3df3da6341.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
