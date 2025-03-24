@@ -1,0 +1,26 @@
+{
+  "manifest_version": 3,
+  "name": "boogle-bot",
+  "description": "Bot that plays boogle game",
+  "version": "1.0",
+  "icons": {
+    "16": "./images/icon.png",
+    "32": "./images/icon.png",
+    "64": "./images/icon.png",
+    "128": "./images/icon.png"
+  },
+  "background": {},
+  "action": {
+    "default_icon": "./images/icon.png",
+    "permissions": ["tabs", "activeTab"],
+    "default_popup": "./screens/bot-control/bot-control.html"
+  },
+  "content_scripts": [
+    {
+      "js": ["./content.js"],
+      "matches": ["https://wordshake.com/boggle/*"],
+      "all_frames": true,
+      "match_about_blank": true
+    }
+  ]
+}
