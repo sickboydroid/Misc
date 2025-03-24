@@ -1,0 +1,26 @@
+{
+  "manifest_version": 3,
+  "name": "wordle-bot",
+  "description": "Bot that automatically plays wordle game",
+  "version": "1.0",
+  "icons": {
+    "16": "./images/icon.png",
+    "32": "./images/icon.png",
+    "64": "./images/icon.png",
+    "128": "./images/icon.png"
+  },
+  "background": {},
+  "action": {
+    "default_icon": "./images/icon.png",
+    "permissions": ["tabs", "activeTab"],
+    "default_popup": "./screens/bot-control/bot-control.html"
+  },
+  "content_scripts": [
+    {
+      "js": ["./content.js"],
+      "matches": ["https://wordleunlimited.org/*", "https://www.nytimes.com/games/wordle/*"],
+      "all_frames": true,
+      "match_about_blank": true
+    }
+  ]
+}
