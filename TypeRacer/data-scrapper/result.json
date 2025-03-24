@@ -1,0 +1,2738 @@
+[
+    {
+        "index": "342",
+        "speed": "67 WPM",
+        "accuracy": "95.8%",
+        "points": "87",
+        "place": "2/3",
+        "date": "today"
+    },
+    {
+        "index": "341",
+        "speed": "56 WPM",
+        "accuracy": "95.3%",
+        "points": "23",
+        "place": "2/5",
+        "date": "today"
+    },
+    {
+        "index": "340",
+        "speed": "68 WPM",
+        "accuracy": "95.9%",
+        "points": "109",
+        "place": "1/5",
+        "date": "today"
+    },
+    {
+        "index": "339",
+        "speed": "75 WPM",
+        "accuracy": "98.4%",
+        "points": "98",
+        "place": "1/5",
+        "date": "today"
+    },
+    {
+        "index": "338",
+        "speed": "57 WPM",
+        "accuracy": "94.1%",
+        "points": "63",
+        "place": "4/5",
+        "date": "today"
+    },
+    {
+        "index": "337",
+        "speed": "68 WPM",
+        "accuracy": "96.0%",
+        "points": "65",
+        "place": "3/4",
+        "date": "today"
+    },
+    {
+        "index": "336",
+        "speed": "57 WPM",
+        "accuracy": "94.0%",
+        "points": "58",
+        "place": "3/4",
+        "date": "today"
+    },
+    {
+        "index": "335",
+        "speed": "65 WPM",
+        "accuracy": "97.1%",
+        "points": "46",
+        "place": "1/4",
+        "date": "today"
+    },
+    {
+        "index": "334",
+        "speed": "62 WPM",
+        "accuracy": "95.2%",
+        "points": "62",
+        "place": "1/5",
+        "date": "today"
+    },
+    {
+        "index": "333",
+        "speed": "63 WPM",
+        "accuracy": "95.2%",
+        "points": "38",
+        "place": "1/4",
+        "date": "today"
+    },
+    {
+        "index": "332",
+        "speed": "57 WPM",
+        "accuracy": "94.4%",
+        "points": "74",
+        "place": "4/5",
+        "date": "today"
+    },
+    {
+        "index": "331",
+        "speed": "64 WPM",
+        "accuracy": "96.2%",
+        "points": "94",
+        "place": "2/5",
+        "date": "today"
+    },
+    {
+        "index": "330",
+        "speed": "43 WPM",
+        "accuracy": "92.7%",
+        "points": "19",
+        "place": "5/5",
+        "date": "today"
+    },
+    {
+        "index": "329",
+        "speed": "65 WPM",
+        "accuracy": "95.3%",
+        "points": "61",
+        "place": "3/4",
+        "date": "today"
+    },
+    {
+        "index": "328",
+        "speed": "61 WPM",
+        "accuracy": "94.5%",
+        "points": "68",
+        "place": "3/5",
+        "date": "today"
+    },
+    {
+        "index": "327",
+        "speed": "61 WPM",
+        "accuracy": "94.9%",
+        "points": "40",
+        "place": "1/5",
+        "date": "today"
+    },
+    {
+        "index": "326",
+        "speed": "60 WPM",
+        "accuracy": "96.1%",
+        "points": "59",
+        "place": "3/5",
+        "date": "today"
+    },
+    {
+        "index": "325",
+        "speed": "54 WPM",
+        "accuracy": "94.6%",
+        "points": "28",
+        "place": "2/5",
+        "date": "today"
+    },
+    {
+        "index": "324",
+        "speed": "66 WPM",
+        "accuracy": "96.3%",
+        "points": "53",
+        "place": "3/5",
+        "date": "today"
+    },
+    {
+        "index": "323",
+        "speed": "56 WPM",
+        "accuracy": "94.3%",
+        "points": "41",
+        "place": "2/4",
+        "date": "today"
+    },
+    {
+        "index": "322",
+        "speed": "62 WPM",
+        "accuracy": "96.0%",
+        "points": "54",
+        "place": "4/5",
+        "date": "today"
+    },
+    {
+        "index": "321",
+        "speed": "69 WPM",
+        "accuracy": "96.5%",
+        "points": "39",
+        "place": "4/5",
+        "date": "today"
+    },
+    {
+        "index": "320",
+        "speed": "51 WPM",
+        "accuracy": "93.2%",
+        "points": "31",
+        "place": "4/5",
+        "date": "today"
+    },
+    {
+        "index": "319",
+        "speed": "61 WPM",
+        "accuracy": "95.6%",
+        "points": "74",
+        "place": "2/5",
+        "date": "today"
+    },
+    {
+        "index": "318",
+        "speed": "53 WPM",
+        "accuracy": "94.8%",
+        "points": "45",
+        "place": "2/3",
+        "date": "today"
+    },
+    {
+        "index": "317",
+        "speed": "56 WPM",
+        "accuracy": "94.2%",
+        "points": "56",
+        "place": "3/3",
+        "date": "today"
+    },
+    {
+        "index": "316",
+        "speed": "64 WPM",
+        "accuracy": "97.1%",
+        "points": "44",
+        "place": "4/5",
+        "date": "today"
+    },
+    {
+        "index": "315",
+        "speed": "64 WPM",
+        "accuracy": "96.1%",
+        "points": "57",
+        "place": "1/4",
+        "date": "today"
+    },
+    {
+        "index": "314",
+        "speed": "64 WPM",
+        "accuracy": "93.9%",
+        "points": "36",
+        "place": "4/5",
+        "date": "today"
+    },
+    {
+        "index": "313",
+        "speed": "64 WPM",
+        "accuracy": "96.8%",
+        "points": "28",
+        "place": "1/5",
+        "date": "today"
+    },
+    {
+        "index": "312",
+        "speed": "63 WPM",
+        "accuracy": "96.0%",
+        "points": "41",
+        "place": "3/5",
+        "date": "today"
+    },
+    {
+        "index": "311",
+        "speed": "66 WPM",
+        "accuracy": "97.0%",
+        "points": "49",
+        "place": "3/5",
+        "date": "today"
+    },
+    {
+        "index": "310",
+        "speed": "66 WPM",
+        "accuracy": "96.6%",
+        "points": "43",
+        "place": "4/5",
+        "date": "today"
+    },
+    {
+        "index": "309",
+        "speed": "70 WPM",
+        "accuracy": "97.6%",
+        "points": "29",
+        "place": "3/4",
+        "date": "today"
+    },
+    {
+        "index": "308",
+        "speed": "65 WPM",
+        "accuracy": "96.4%",
+        "points": "64",
+        "place": "1/4",
+        "date": "today"
+    },
+    {
+        "index": "307",
+        "speed": "67 WPM",
+        "accuracy": "96.4%",
+        "points": "46",
+        "place": "1/2",
+        "date": "today"
+    },
+    {
+        "index": "306",
+        "speed": "63 WPM",
+        "accuracy": "95.4%",
+        "points": "79",
+        "place": "1/4",
+        "date": "today"
+    },
+    {
+        "index": "305",
+        "speed": "63 WPM",
+        "accuracy": "95.7%",
+        "points": "37",
+        "place": "1/4",
+        "date": "today"
+    },
+    {
+        "index": "304",
+        "speed": "65 WPM",
+        "accuracy": "96.5%",
+        "points": "52",
+        "place": "1/5",
+        "date": "today"
+    },
+    {
+        "index": "303",
+        "speed": "56 WPM",
+        "accuracy": "96.7%",
+        "points": "62",
+        "place": "1/5",
+        "date": "today"
+    },
+    {
+        "index": "302",
+        "speed": "61 WPM",
+        "accuracy": "96.7%",
+        "points": "63",
+        "place": "4/5",
+        "date": "today"
+    },
+    {
+        "index": "301",
+        "speed": "67 WPM",
+        "accuracy": "96.8%",
+        "points": "35",
+        "place": "2/5",
+        "date": "today"
+    },
+    {
+        "index": "300",
+        "speed": "62 WPM",
+        "accuracy": "95.7%",
+        "points": "83",
+        "place": "2/5",
+        "date": "today"
+    },
+    {
+        "index": "299",
+        "speed": "59 WPM",
+        "accuracy": "96.0%",
+        "points": "25",
+        "place": "1/3",
+        "date": "today"
+    },
+    {
+        "index": "298",
+        "speed": "56 WPM",
+        "accuracy": "96.0%",
+        "points": "33",
+        "place": "2/5",
+        "date": "today"
+    },
+    {
+        "index": "297",
+        "speed": "52 WPM",
+        "accuracy": "94.7%",
+        "points": "23",
+        "place": "2/5",
+        "date": "today"
+    },
+    {
+        "index": "296",
+        "speed": "55 WPM",
+        "accuracy": "93.8%",
+        "points": "46",
+        "place": "2/5",
+        "date": "today"
+    },
+    {
+        "index": "295",
+        "speed": "52 WPM",
+        "accuracy": "94.9%",
+        "points": "52",
+        "place": "4/5",
+        "date": "today"
+    },
+    {
+        "index": "294",
+        "speed": "64 WPM",
+        "accuracy": "95.5%",
+        "points": "27",
+        "place": "1/5",
+        "date": "today"
+    },
+    {
+        "index": "293",
+        "speed": "47 WPM",
+        "accuracy": "93.8%",
+        "points": "24",
+        "place": "5/5",
+        "date": "today"
+    },
+    {
+        "index": "292",
+        "speed": "57 WPM",
+        "accuracy": "93.7%",
+        "points": "40",
+        "place": "2/4",
+        "date": "today"
+    },
+    {
+        "index": "291",
+        "speed": "56 WPM",
+        "accuracy": "95.5%",
+        "points": "70",
+        "place": "3/5",
+        "date": "today"
+    },
+    {
+        "index": "290",
+        "speed": "61 WPM",
+        "accuracy": "95.5%",
+        "points": "82",
+        "place": "3/3",
+        "date": "today"
+    },
+    {
+        "index": "289",
+        "speed": "66 WPM",
+        "accuracy": "96.5%",
+        "points": "74",
+        "place": "4/5",
+        "date": "today"
+    },
+    {
+        "index": "288",
+        "speed": "60 WPM",
+        "accuracy": "95.5%",
+        "points": "29",
+        "place": "2/5",
+        "date": "today"
+    },
+    {
+        "index": "287",
+        "speed": "57 WPM",
+        "accuracy": "95.0%",
+        "points": "74",
+        "place": "3/4",
+        "date": "today"
+    },
+    {
+        "index": "286",
+        "speed": "59 WPM",
+        "accuracy": "94.1%",
+        "points": "28",
+        "place": "3/5",
+        "date": "today"
+    },
+    {
+        "index": "285",
+        "speed": "67 WPM",
+        "accuracy": "96.3%",
+        "points": "41",
+        "place": "2/5",
+        "date": "today"
+    },
+    {
+        "index": "284",
+        "speed": "59 WPM",
+        "accuracy": "96.0%",
+        "points": "27",
+        "place": "4/5",
+        "date": "today"
+    },
+    {
+        "index": "283",
+        "speed": "69 WPM",
+        "accuracy": "97.0%",
+        "points": "72",
+        "place": "3/5",
+        "date": "today"
+    },
+    {
+        "index": "282",
+        "speed": "49 WPM",
+        "accuracy": "96.4%",
+        "points": "41",
+        "place": "3/5",
+        "date": "Dec. 9, 2024"
+    },
+    {
+        "index": "281",
+        "speed": "62 WPM",
+        "accuracy": "95.9%",
+        "points": "57",
+        "place": "4/5",
+        "date": "Dec. 9, 2024"
+    },
+    {
+        "index": "280",
+        "speed": "57 WPM",
+        "accuracy": "95.2%",
+        "points": "40",
+        "place": "4/5",
+        "date": "Dec. 9, 2024"
+    },
+    {
+        "index": "279",
+        "speed": "60 WPM",
+        "accuracy": "96.2%",
+        "points": "78",
+        "place": "2/5",
+        "date": "Dec. 9, 2024"
+    },
+    {
+        "index": "278",
+        "speed": "59 WPM",
+        "accuracy": "95.3%",
+        "points": "77",
+        "place": "3/5",
+        "date": "Dec. 9, 2024"
+    },
+    {
+        "index": "277",
+        "speed": "57 WPM",
+        "accuracy": "95.0%",
+        "points": "25",
+        "place": "3/5",
+        "date": "Dec. 9, 2024"
+    },
+    {
+        "index": "276",
+        "speed": "63 WPM",
+        "accuracy": "96.4%",
+        "points": "37",
+        "place": "2/5",
+        "date": "Dec. 9, 2024"
+    },
+    {
+        "index": "275",
+        "speed": "68 WPM",
+        "accuracy": "96.4%",
+        "points": "52",
+        "place": "3/5",
+        "date": "Dec. 9, 2024"
+    },
+    {
+        "index": "274",
+        "speed": "59 WPM",
+        "accuracy": "95.2%",
+        "points": "81",
+        "place": "2/4",
+        "date": "Dec. 9, 2024"
+    },
+    {
+        "index": "273",
+        "speed": "63 WPM",
+        "accuracy": "97.5%",
+        "points": "27",
+        "place": "1/5",
+        "date": "Dec. 9, 2024"
+    },
+    {
+        "index": "272",
+        "speed": "66 WPM",
+        "accuracy": "96.3%",
+        "points": "43",
+        "place": "2/5",
+        "date": "Nov. 29, 2024"
+    },
+    {
+        "index": "271",
+        "speed": "67 WPM",
+        "accuracy": "95.3%",
+        "points": "49",
+        "place": "3/4",
+        "date": "Nov. 29, 2024"
+    },
+    {
+        "index": "270",
+        "speed": "52 WPM",
+        "accuracy": "92.4%",
+        "points": "27",
+        "place": "4/5",
+        "date": "Nov. 29, 2024"
+    },
+    {
+        "index": "269",
+        "speed": "48 WPM",
+        "accuracy": "91.9%",
+        "points": "15",
+        "place": "3/5",
+        "date": "Nov. 29, 2024"
+    },
+    {
+        "index": "268",
+        "speed": "61 WPM",
+        "accuracy": "94.9%",
+        "points": "64",
+        "place": "2/5",
+        "date": "Nov. 29, 2024"
+    },
+    {
+        "index": "267",
+        "speed": "67 WPM",
+        "accuracy": "97.5%",
+        "points": "53",
+        "place": "3/5",
+        "date": "Nov. 29, 2024"
+    },
+    {
+        "index": "266",
+        "speed": "62 WPM",
+        "accuracy": "96.3%",
+        "points": "44",
+        "place": "2/5",
+        "date": "Nov. 29, 2024"
+    },
+    {
+        "index": "265",
+        "speed": "72 WPM",
+        "accuracy": "97.0%",
+        "points": "29",
+        "place": "3/5",
+        "date": "Nov. 29, 2024"
+    },
+    {
+        "index": "264",
+        "speed": "62 WPM",
+        "accuracy": "94.3%",
+        "points": "36",
+        "place": "1/5",
+        "date": "Nov. 29, 2024"
+    },
+    {
+        "index": "263",
+        "speed": "64 WPM",
+        "accuracy": "95.4%",
+        "points": "66",
+        "place": "4/4",
+        "date": "Nov. 29, 2024"
+    },
+    {
+        "index": "262",
+        "speed": "60 WPM",
+        "accuracy": "96.5%",
+        "points": "42",
+        "place": "2/5",
+        "date": "Nov. 29, 2024"
+    },
+    {
+        "index": "261",
+        "speed": "67 WPM",
+        "accuracy": "95.6%",
+        "points": "55",
+        "place": "4/5",
+        "date": "Nov. 29, 2024"
+    },
+    {
+        "index": "260",
+        "speed": "58 WPM",
+        "accuracy": "93.2%",
+        "points": "36",
+        "place": "5/5",
+        "date": "Nov. 29, 2024"
+    },
+    {
+        "index": "259",
+        "speed": "52 WPM",
+        "accuracy": "95.3%",
+        "points": "51",
+        "place": "4/5",
+        "date": "Nov. 29, 2024"
+    },
+    {
+        "index": "258",
+        "speed": "62 WPM",
+        "accuracy": "96.7%",
+        "points": "27",
+        "place": "1/5",
+        "date": "Nov. 29, 2024"
+    },
+    {
+        "index": "257",
+        "speed": "55 WPM",
+        "accuracy": "95.9%",
+        "points": "41",
+        "place": "2/4",
+        "date": "Jan. 4, 2024"
+    },
+    {
+        "index": "256",
+        "speed": "59 WPM",
+        "accuracy": "97.0%",
+        "points": "61",
+        "place": "2/5",
+        "date": "Jan. 4, 2024"
+    },
+    {
+        "index": "255",
+        "speed": "62 WPM",
+        "accuracy": "97.8%",
+        "points": "38",
+        "place": "2/5",
+        "date": "Jan. 4, 2024"
+    },
+    {
+        "index": "254",
+        "speed": "54 WPM",
+        "accuracy": "94.6%",
+        "points": "26",
+        "place": "2/5",
+        "date": "Jan. 2, 2024"
+    },
+    {
+        "index": "253",
+        "speed": "47 WPM",
+        "accuracy": "94.5%",
+        "points": "32",
+        "place": "4/4",
+        "date": "Jan. 2, 2024"
+    },
+    {
+        "index": "252",
+        "speed": "63 WPM",
+        "accuracy": "98.2%",
+        "points": "54",
+        "place": "1/5",
+        "date": "Jan. 2, 2024"
+    },
+    {
+        "index": "251",
+        "speed": "52 WPM",
+        "accuracy": "95.2%",
+        "points": "38",
+        "place": "5/5",
+        "date": "Jan. 2, 2024"
+    },
+    {
+        "index": "250",
+        "speed": "55 WPM",
+        "accuracy": "96.2%",
+        "points": "52",
+        "place": "1/5",
+        "date": "Dec. 31, 2023"
+    },
+    {
+        "index": "249",
+        "speed": "48 WPM",
+        "accuracy": "94.1%",
+        "points": "49",
+        "place": "4/4",
+        "date": "Dec. 31, 2023"
+    },
+    {
+        "index": "248",
+        "speed": "54 WPM",
+        "accuracy": "96.7%",
+        "points": "31",
+        "place": "3/5",
+        "date": "Dec. 31, 2023"
+    },
+    {
+        "index": "247",
+        "speed": "48 WPM",
+        "accuracy": "96.3%",
+        "points": "54",
+        "place": "4/5",
+        "date": "Dec. 31, 2023"
+    },
+    {
+        "index": "246",
+        "speed": "49 WPM",
+        "accuracy": "94.6%",
+        "points": "34",
+        "place": "4/4",
+        "date": "Dec. 30, 2023"
+    },
+    {
+        "index": "245",
+        "speed": "54 WPM",
+        "accuracy": "96.2%",
+        "points": "34",
+        "place": "2/4",
+        "date": "Dec. 30, 2023"
+    },
+    {
+        "index": "244",
+        "speed": "53 WPM",
+        "accuracy": "96.4%",
+        "points": "50",
+        "place": "3/5",
+        "date": "Dec. 30, 2023"
+    },
+    {
+        "index": "243",
+        "speed": "58 WPM",
+        "accuracy": "96.2%",
+        "points": "33",
+        "place": "1/3",
+        "date": "Dec. 30, 2023"
+    },
+    {
+        "index": "242",
+        "speed": "64 WPM",
+        "accuracy": "97.2%",
+        "points": "35",
+        "place": "2/5",
+        "date": "Dec. 30, 2023"
+    },
+    {
+        "index": "241",
+        "speed": "52 WPM",
+        "accuracy": "96.3%",
+        "points": "46",
+        "place": "1/5",
+        "date": "Dec. 30, 2023"
+    },
+    {
+        "index": "240",
+        "speed": "55 WPM",
+        "accuracy": "97.8%",
+        "points": "101",
+        "place": "4/5",
+        "date": "Dec. 30, 2023"
+    },
+    {
+        "index": "239",
+        "speed": "51 WPM",
+        "accuracy": "96.6%",
+        "points": "60",
+        "place": "4/4",
+        "date": "Dec. 30, 2023"
+    },
+    {
+        "index": "238",
+        "speed": "56 WPM",
+        "accuracy": "99.2%",
+        "points": "22",
+        "place": "1/5",
+        "date": "Dec. 30, 2023"
+    },
+    {
+        "index": "237",
+        "speed": "47 WPM",
+        "accuracy": "95.0%",
+        "points": "54",
+        "place": "5/5",
+        "date": "Dec. 30, 2023"
+    },
+    {
+        "index": "236",
+        "speed": "61 WPM",
+        "accuracy": "97.5%",
+        "points": "63",
+        "place": "1/5",
+        "date": "Dec. 30, 2023"
+    },
+    {
+        "index": "235",
+        "speed": "52 WPM",
+        "accuracy": "94.9%",
+        "points": "21",
+        "place": "3/5",
+        "date": "Dec. 30, 2023"
+    },
+    {
+        "index": "234",
+        "speed": "56 WPM",
+        "accuracy": "96.6%",
+        "points": "50",
+        "place": "1/5",
+        "date": "Dec. 30, 2023"
+    },
+    {
+        "index": "233",
+        "speed": "60 WPM",
+        "accuracy": "97.9%",
+        "points": "69",
+        "place": "2/5",
+        "date": "Dec. 30, 2023"
+    },
+    {
+        "index": "232",
+        "speed": "52 WPM",
+        "accuracy": "96.7%",
+        "points": "49",
+        "place": "2/5",
+        "date": "Dec. 30, 2023"
+    },
+    {
+        "index": "231",
+        "speed": "47 WPM",
+        "accuracy": "95.3%",
+        "points": "45",
+        "place": "5/5",
+        "date": "Dec. 30, 2023"
+    },
+    {
+        "index": "230",
+        "speed": "54 WPM",
+        "accuracy": "96.1%",
+        "points": "57",
+        "place": "4/5",
+        "date": "Dec. 29, 2023"
+    },
+    {
+        "index": "229",
+        "speed": "53 WPM",
+        "accuracy": "95.1%",
+        "points": "25",
+        "place": "4/5",
+        "date": "Dec. 29, 2023"
+    },
+    {
+        "index": "228",
+        "speed": "53 WPM",
+        "accuracy": "96.4%",
+        "points": "37",
+        "place": "1/5",
+        "date": "Dec. 29, 2023"
+    },
+    {
+        "index": "227",
+        "speed": "54 WPM",
+        "accuracy": "95.3%",
+        "points": "43",
+        "place": "5/5",
+        "date": "Dec. 29, 2023"
+    },
+    {
+        "index": "226",
+        "speed": "58 WPM",
+        "accuracy": "96.8%",
+        "points": "76",
+        "place": "1/5",
+        "date": "Dec. 29, 2023"
+    },
+    {
+        "index": "225",
+        "speed": "56 WPM",
+        "accuracy": "97.3%",
+        "points": "24",
+        "place": "1/3",
+        "date": "Dec. 29, 2023"
+    },
+    {
+        "index": "224",
+        "speed": "64 WPM",
+        "accuracy": "97.6%",
+        "points": "52",
+        "place": "1/5",
+        "date": "Dec. 29, 2023"
+    },
+    {
+        "index": "223",
+        "speed": "59 WPM",
+        "accuracy": "96.2%",
+        "points": "35",
+        "place": "2/4",
+        "date": "Dec. 29, 2023"
+    },
+    {
+        "index": "222",
+        "speed": "53 WPM",
+        "accuracy": "95.8%",
+        "points": "36",
+        "place": "4/5",
+        "date": "Dec. 29, 2023"
+    },
+    {
+        "index": "221",
+        "speed": "54 WPM",
+        "accuracy": "96.6%",
+        "points": "56",
+        "place": "2/5",
+        "date": "Dec. 29, 2023"
+    },
+    {
+        "index": "220",
+        "speed": "57 WPM",
+        "accuracy": "96.4%",
+        "points": "59",
+        "place": "3/5",
+        "date": "Dec. 29, 2023"
+    },
+    {
+        "index": "219",
+        "speed": "58 WPM",
+        "accuracy": "96.1%",
+        "points": "68",
+        "place": "5/5",
+        "date": "Dec. 29, 2023"
+    },
+    {
+        "index": "218",
+        "speed": "55 WPM",
+        "accuracy": "96.4%",
+        "points": "25",
+        "place": "4/5",
+        "date": "Dec. 29, 2023"
+    },
+    {
+        "index": "217",
+        "speed": "64 WPM",
+        "accuracy": "98.1%",
+        "points": "39",
+        "place": "2/5",
+        "date": "Dec. 29, 2023"
+    },
+    {
+        "index": "216",
+        "speed": "51 WPM",
+        "accuracy": "96.7%",
+        "points": "53",
+        "place": "2/5",
+        "date": "Dec. 29, 2023"
+    },
+    {
+        "index": "215",
+        "speed": "53 WPM",
+        "accuracy": "97.6%",
+        "points": "44",
+        "place": "2/5",
+        "date": "Dec. 29, 2023"
+    },
+    {
+        "index": "214",
+        "speed": "50 WPM",
+        "accuracy": "96.4%",
+        "points": "47",
+        "place": "3/5",
+        "date": "Dec. 29, 2023"
+    },
+    {
+        "index": "213",
+        "speed": "54 WPM",
+        "accuracy": "96.3%",
+        "points": "27",
+        "place": "4/4",
+        "date": "Dec. 29, 2023"
+    },
+    {
+        "index": "212",
+        "speed": "64 WPM",
+        "accuracy": "98.2%",
+        "points": "54",
+        "place": "3/5",
+        "date": "Dec. 29, 2023"
+    },
+    {
+        "index": "211",
+        "speed": "61 WPM",
+        "accuracy": "97.3%",
+        "points": "38",
+        "place": "2/4",
+        "date": "Dec. 29, 2023"
+    },
+    {
+        "index": "210",
+        "speed": "56 WPM",
+        "accuracy": "96.9%",
+        "points": "41",
+        "place": "4/5",
+        "date": "Dec. 29, 2023"
+    },
+    {
+        "index": "209",
+        "speed": "55 WPM",
+        "accuracy": "96.8%",
+        "points": "27",
+        "place": "4/5",
+        "date": "Dec. 29, 2023"
+    },
+    {
+        "index": "208",
+        "speed": "50 WPM",
+        "accuracy": "94.3%",
+        "points": "53",
+        "place": "4/4",
+        "date": "Dec. 29, 2023"
+    },
+    {
+        "index": "207",
+        "speed": "50 WPM",
+        "accuracy": "95.4%",
+        "points": "30",
+        "place": "2/5",
+        "date": "Dec. 29, 2023"
+    },
+    {
+        "index": "206",
+        "speed": "48 WPM",
+        "accuracy": "96.5%",
+        "points": "52",
+        "place": "2/4",
+        "date": "Dec. 29, 2023"
+    },
+    {
+        "index": "205",
+        "speed": "51 WPM",
+        "accuracy": "96.2%",
+        "points": "40",
+        "place": "4/5",
+        "date": "Dec. 29, 2023"
+    },
+    {
+        "index": "204",
+        "speed": "54 WPM",
+        "accuracy": "96.3%",
+        "points": "39",
+        "place": "4/5",
+        "date": "Dec. 29, 2023"
+    },
+    {
+        "index": "203",
+        "speed": "45 WPM",
+        "accuracy": "93.3%",
+        "points": "24",
+        "place": "4/4",
+        "date": "Dec. 29, 2023"
+    },
+    {
+        "index": "202",
+        "speed": "51 WPM",
+        "accuracy": "97.0%",
+        "points": "31",
+        "place": "2/3",
+        "date": "Dec. 29, 2023"
+    },
+    {
+        "index": "201",
+        "speed": "57 WPM",
+        "accuracy": "95.9%",
+        "points": "48",
+        "place": "3/5",
+        "date": "Dec. 29, 2023"
+    },
+    {
+        "index": "200",
+        "speed": "49 WPM",
+        "accuracy": "95.3%",
+        "points": "20",
+        "place": "3/4",
+        "date": "Dec. 29, 2023"
+    },
+    {
+        "index": "199",
+        "speed": "50 WPM",
+        "accuracy": "96.5%",
+        "points": "43",
+        "place": "1/4",
+        "date": "Dec. 29, 2023"
+    },
+    {
+        "index": "198",
+        "speed": "50 WPM",
+        "accuracy": "97.9%",
+        "points": "31",
+        "place": "4/5",
+        "date": "Dec. 29, 2023"
+    },
+    {
+        "index": "197",
+        "speed": "46 WPM",
+        "accuracy": "95.9%",
+        "points": "41",
+        "place": "3/4",
+        "date": "Dec. 28, 2023"
+    },
+    {
+        "index": "196",
+        "speed": "55 WPM",
+        "accuracy": "97.1%",
+        "points": "44",
+        "place": "4/5",
+        "date": "Dec. 28, 2023"
+    },
+    {
+        "index": "195",
+        "speed": "56 WPM",
+        "accuracy": "97.6%",
+        "points": "36",
+        "place": "1/5",
+        "date": "Dec. 28, 2023"
+    },
+    {
+        "index": "194",
+        "speed": "55 WPM",
+        "accuracy": "95.6%",
+        "points": "18",
+        "place": "4/5",
+        "date": "Dec. 28, 2023"
+    },
+    {
+        "index": "193",
+        "speed": "49 WPM",
+        "accuracy": "95.6%",
+        "points": "33",
+        "place": "4/4",
+        "date": "Dec. 28, 2023"
+    },
+    {
+        "index": "192",
+        "speed": "57 WPM",
+        "accuracy": "97.2%",
+        "points": "67",
+        "place": "2/5",
+        "date": "Dec. 28, 2023"
+    },
+    {
+        "index": "191",
+        "speed": "52 WPM",
+        "accuracy": "95.3%",
+        "points": "31",
+        "place": "5/5",
+        "date": "Dec. 28, 2023"
+    },
+    {
+        "index": "190",
+        "speed": "57 WPM",
+        "accuracy": "96.3%",
+        "points": "32",
+        "place": "3/4",
+        "date": "Dec. 28, 2023"
+    },
+    {
+        "index": "189",
+        "speed": "47 WPM",
+        "accuracy": "95.7%",
+        "points": "30",
+        "place": "1/4",
+        "date": "Dec. 28, 2023"
+    },
+    {
+        "index": "188",
+        "speed": "48 WPM",
+        "accuracy": "97.2%",
+        "points": "43",
+        "place": "3/4",
+        "date": "Dec. 28, 2023"
+    },
+    {
+        "index": "187",
+        "speed": "54 WPM",
+        "accuracy": "96.2%",
+        "points": "58",
+        "place": "4/5",
+        "date": "Dec. 28, 2023"
+    },
+    {
+        "index": "186",
+        "speed": "64 WPM",
+        "accuracy": "98.4%",
+        "points": "37",
+        "place": "3/5",
+        "date": "Dec. 28, 2023"
+    },
+    {
+        "index": "185",
+        "speed": "48 WPM",
+        "accuracy": "95.9%",
+        "points": "34",
+        "place": "4/5",
+        "date": "Dec. 28, 2023"
+    },
+    {
+        "index": "184",
+        "speed": "50 WPM",
+        "accuracy": "96.8%",
+        "points": "51",
+        "place": "4/5",
+        "date": "Dec. 28, 2023"
+    },
+    {
+        "index": "183",
+        "speed": "52 WPM",
+        "accuracy": "96.2%",
+        "points": "31",
+        "place": "2/5",
+        "date": "Dec. 28, 2023"
+    },
+    {
+        "index": "182",
+        "speed": "54 WPM",
+        "accuracy": "97.3%",
+        "points": "35",
+        "place": "2/4",
+        "date": "Dec. 28, 2023"
+    },
+    {
+        "index": "181",
+        "speed": "59 WPM",
+        "accuracy": "96.8%",
+        "points": "35",
+        "place": "1/5",
+        "date": "Dec. 28, 2023"
+    },
+    {
+        "index": "180",
+        "speed": "54 WPM",
+        "accuracy": "97.3%",
+        "points": "55",
+        "place": "5/5",
+        "date": "Dec. 28, 2023"
+    },
+    {
+        "index": "179",
+        "speed": "51 WPM",
+        "accuracy": "95.3%",
+        "points": "54",
+        "place": "1/5",
+        "date": "Dec. 28, 2023"
+    },
+    {
+        "index": "178",
+        "speed": "49 WPM",
+        "accuracy": "94.7%",
+        "points": "29",
+        "place": "4/5",
+        "date": "Dec. 28, 2023"
+    },
+    {
+        "index": "177",
+        "speed": "46 WPM",
+        "accuracy": "93.5%",
+        "points": "29",
+        "place": "2/5",
+        "date": "Dec. 28, 2023"
+    },
+    {
+        "index": "176",
+        "speed": "43 WPM",
+        "accuracy": "95.6%",
+        "points": "43",
+        "place": "5/5",
+        "date": "Dec. 28, 2023"
+    },
+    {
+        "index": "175",
+        "speed": "57 WPM",
+        "accuracy": "98.2%",
+        "points": "28",
+        "place": "3/5",
+        "date": "Dec. 28, 2023"
+    },
+    {
+        "index": "174",
+        "speed": "54 WPM",
+        "accuracy": "98.3%",
+        "points": "30",
+        "place": "3/5",
+        "date": "Dec. 28, 2023"
+    },
+    {
+        "index": "173",
+        "speed": "45 WPM",
+        "accuracy": "94.8%",
+        "points": "40",
+        "place": "2/3",
+        "date": "Dec. 28, 2023"
+    },
+    {
+        "index": "172",
+        "speed": "44 WPM",
+        "accuracy": "95.4%",
+        "points": "40",
+        "place": "5/5",
+        "date": "Dec. 28, 2023"
+    },
+    {
+        "index": "171",
+        "speed": "44 WPM",
+        "accuracy": "96.5%",
+        "points": "38",
+        "place": "4/5",
+        "date": "Dec. 28, 2023"
+    },
+    {
+        "index": "170",
+        "speed": "50 WPM",
+        "accuracy": "95.9%",
+        "points": "36",
+        "place": "2/5",
+        "date": "Dec. 28, 2023"
+    },
+    {
+        "index": "169",
+        "speed": "35 WPM",
+        "accuracy": "97.3%",
+        "points": "15",
+        "place": "3/5",
+        "date": "Dec. 27, 2023"
+    },
+    {
+        "index": "168",
+        "speed": "43 WPM",
+        "accuracy": "96.2%",
+        "points": "24",
+        "place": "4/5",
+        "date": "Dec. 27, 2023"
+    },
+    {
+        "index": "167",
+        "speed": "39 WPM",
+        "accuracy": "95.0%",
+        "points": "41",
+        "place": "5/5",
+        "date": "Dec. 27, 2023"
+    },
+    {
+        "index": "166",
+        "speed": "66 WPM",
+        "accuracy": "97.3%",
+        "points": "12",
+        "place": "1/5",
+        "date": "Dec. 27, 2023"
+    },
+    {
+        "index": "165",
+        "speed": "51 WPM",
+        "accuracy": "97.8%",
+        "points": "30",
+        "place": "1/5",
+        "date": "Dec. 27, 2023"
+    },
+    {
+        "index": "164",
+        "speed": "37 WPM",
+        "accuracy": "94.9%",
+        "points": "28",
+        "place": "3/5",
+        "date": "Dec. 27, 2023"
+    },
+    {
+        "index": "163",
+        "speed": "45 WPM",
+        "accuracy": "97.4%",
+        "points": "36",
+        "place": "3/5",
+        "date": "Dec. 27, 2023"
+    },
+    {
+        "index": "162",
+        "speed": "47 WPM",
+        "accuracy": "97.1%",
+        "points": "42",
+        "place": "5/5",
+        "date": "Dec. 27, 2023"
+    },
+    {
+        "index": "161",
+        "speed": "50 WPM",
+        "accuracy": "96.3%",
+        "points": "34",
+        "place": "1/4",
+        "date": "Dec. 27, 2023"
+    },
+    {
+        "index": "160",
+        "speed": "45 WPM",
+        "accuracy": "94.9%",
+        "points": "36",
+        "place": "2/5",
+        "date": "Dec. 27, 2023"
+    },
+    {
+        "index": "159",
+        "speed": "42 WPM",
+        "accuracy": "96.1%",
+        "points": "47",
+        "place": "3/5",
+        "date": "Dec. 27, 2023"
+    },
+    {
+        "index": "158",
+        "speed": "42 WPM",
+        "accuracy": "95.5%",
+        "points": "32",
+        "place": "1/5",
+        "date": "Dec. 27, 2023"
+    },
+    {
+        "index": "157",
+        "speed": "37 WPM",
+        "accuracy": "94.7%",
+        "points": "30",
+        "place": "3/5",
+        "date": "Dec. 27, 2023"
+    },
+    {
+        "index": "156",
+        "speed": "46 WPM",
+        "accuracy": "95.3%",
+        "points": "26",
+        "place": "4/5",
+        "date": "Dec. 27, 2023"
+    },
+    {
+        "index": "155",
+        "speed": "48 WPM",
+        "accuracy": "97.5%",
+        "points": "47",
+        "place": "5/5",
+        "date": "Dec. 27, 2023"
+    },
+    {
+        "index": "154",
+        "speed": "38 WPM",
+        "accuracy": "95.7%",
+        "points": "35",
+        "place": "5/5",
+        "date": "Dec. 27, 2023"
+    },
+    {
+        "index": "153",
+        "speed": "53 WPM",
+        "accuracy": "95.9%",
+        "points": "37",
+        "place": "3/4",
+        "date": "Dec. 27, 2023"
+    },
+    {
+        "index": "152",
+        "speed": "51 WPM",
+        "accuracy": "95.3%",
+        "points": "46",
+        "place": "3/5",
+        "date": "Dec. 27, 2023"
+    },
+    {
+        "index": "151",
+        "speed": "53 WPM",
+        "accuracy": "95.6%",
+        "points": "53",
+        "place": "3/4",
+        "date": "Dec. 27, 2023"
+    },
+    {
+        "index": "150",
+        "speed": "50 WPM",
+        "accuracy": "97.1%",
+        "points": "47",
+        "place": "4/5",
+        "date": "Dec. 27, 2023"
+    },
+    {
+        "index": "149",
+        "speed": "45 WPM",
+        "accuracy": "95.2%",
+        "points": "34",
+        "place": "3/4",
+        "date": "Dec. 27, 2023"
+    },
+    {
+        "index": "148",
+        "speed": "52 WPM",
+        "accuracy": "95.1%",
+        "points": "23",
+        "place": "1/5",
+        "date": "Dec. 26, 2023"
+    },
+    {
+        "index": "147",
+        "speed": "56 WPM",
+        "accuracy": "94.5%",
+        "points": "50",
+        "place": "2/3",
+        "date": "Dec. 26, 2023"
+    },
+    {
+        "index": "146",
+        "speed": "55 WPM",
+        "accuracy": "94.5%",
+        "points": "29",
+        "place": "2/5",
+        "date": "Dec. 26, 2023"
+    },
+    {
+        "index": "145",
+        "speed": "68 WPM",
+        "accuracy": "98.3%",
+        "points": "71",
+        "place": "1/5",
+        "date": "Dec. 26, 2023"
+    },
+    {
+        "index": "144",
+        "speed": "58 WPM",
+        "accuracy": "95.7%",
+        "points": "50",
+        "place": "4/5",
+        "date": "Dec. 26, 2023"
+    },
+    {
+        "index": "143",
+        "speed": "45 WPM",
+        "accuracy": "93.5%",
+        "points": "48",
+        "place": "5/5",
+        "date": "Dec. 26, 2023"
+    },
+    {
+        "index": "142",
+        "speed": "57 WPM",
+        "accuracy": "95.0%",
+        "points": "52",
+        "place": "4/5",
+        "date": "Dec. 26, 2023"
+    },
+    {
+        "index": "141",
+        "speed": "58 WPM",
+        "accuracy": "94.2%",
+        "points": "37",
+        "place": "4/5",
+        "date": "Dec. 26, 2023"
+    },
+    {
+        "index": "140",
+        "speed": "59 WPM",
+        "accuracy": "96.5%",
+        "points": "32",
+        "place": "3/5",
+        "date": "Dec. 26, 2023"
+    },
+    {
+        "index": "139",
+        "speed": "60 WPM",
+        "accuracy": "95.5%",
+        "points": "14",
+        "place": "3/3",
+        "date": "Dec. 26, 2023"
+    },
+    {
+        "index": "138",
+        "speed": "57 WPM",
+        "accuracy": "95.6%",
+        "points": "67",
+        "place": "2/4",
+        "date": "Dec. 26, 2023"
+    },
+    {
+        "index": "137",
+        "speed": "54 WPM",
+        "accuracy": "94.2%",
+        "points": "40",
+        "place": "4/5",
+        "date": "Dec. 26, 2023"
+    },
+    {
+        "index": "136",
+        "speed": "57 WPM",
+        "accuracy": "95.8%",
+        "points": "40",
+        "place": "2/5",
+        "date": "Dec. 26, 2023"
+    },
+    {
+        "index": "135",
+        "speed": "47 WPM",
+        "accuracy": "90.9%",
+        "points": "20",
+        "place": "3/4",
+        "date": "Dec. 26, 2023"
+    },
+    {
+        "index": "134",
+        "speed": "43 WPM",
+        "accuracy": "97.0%",
+        "points": "14",
+        "place": "4/4",
+        "date": "Dec. 26, 2023"
+    },
+    {
+        "index": "133",
+        "speed": "57 WPM",
+        "accuracy": "95.1%",
+        "points": "16",
+        "place": "4/5",
+        "date": "Dec. 26, 2023"
+    },
+    {
+        "index": "132",
+        "speed": "64 WPM",
+        "accuracy": "96.7%",
+        "points": "29",
+        "place": "3/5",
+        "date": "Dec. 26, 2023"
+    },
+    {
+        "index": "131",
+        "speed": "55 WPM",
+        "accuracy": "95.3%",
+        "points": "52",
+        "place": "5/5",
+        "date": "Dec. 26, 2023"
+    },
+    {
+        "index": "130",
+        "speed": "59 WPM",
+        "accuracy": "95.3%",
+        "points": "65",
+        "place": "2/4",
+        "date": "Dec. 26, 2023"
+    },
+    {
+        "index": "129",
+        "speed": "60 WPM",
+        "accuracy": "95.3%",
+        "points": "48",
+        "place": "5/5",
+        "date": "Dec. 26, 2023"
+    },
+    {
+        "index": "128",
+        "speed": "64 WPM",
+        "accuracy": "96.7%",
+        "points": "72",
+        "place": "3/5",
+        "date": "Dec. 26, 2023"
+    },
+    {
+        "index": "127",
+        "speed": "59 WPM",
+        "accuracy": "95.6%",
+        "points": "45",
+        "place": "2/5",
+        "date": "Dec. 26, 2023"
+    },
+    {
+        "index": "126",
+        "speed": "61 WPM",
+        "accuracy": "94.7%",
+        "points": "83",
+        "place": "3/5",
+        "date": "Dec. 26, 2023"
+    },
+    {
+        "index": "125",
+        "speed": "65 WPM",
+        "accuracy": "96.6%",
+        "points": "67",
+        "place": "1/5",
+        "date": "Dec. 26, 2023"
+    },
+    {
+        "index": "124",
+        "speed": "56 WPM",
+        "accuracy": "96.6%",
+        "points": "35",
+        "place": "4/5",
+        "date": "Dec. 26, 2023"
+    },
+    {
+        "index": "123",
+        "speed": "59 WPM",
+        "accuracy": "95.4%",
+        "points": "87",
+        "place": "3/4",
+        "date": "Dec. 26, 2023"
+    },
+    {
+        "index": "122",
+        "speed": "57 WPM",
+        "accuracy": "95.5%",
+        "points": "68",
+        "place": "3/5",
+        "date": "Dec. 26, 2023"
+    },
+    {
+        "index": "121",
+        "speed": "54 WPM",
+        "accuracy": "94.8%",
+        "points": "36",
+        "place": "5/5",
+        "date": "Dec. 26, 2023"
+    },
+    {
+        "index": "120",
+        "speed": "64 WPM",
+        "accuracy": "96.2%",
+        "points": "54",
+        "place": "4/5",
+        "date": "Dec. 26, 2023"
+    },
+    {
+        "index": "119",
+        "speed": "65 WPM",
+        "accuracy": "96.7%",
+        "points": "40",
+        "place": "1/3",
+        "date": "Dec. 26, 2023"
+    },
+    {
+        "index": "118",
+        "speed": "57 WPM",
+        "accuracy": "95.7%",
+        "points": "61",
+        "place": "2/5",
+        "date": "Dec. 26, 2023"
+    },
+    {
+        "index": "117",
+        "speed": "57 WPM",
+        "accuracy": "96.0%",
+        "points": "37",
+        "place": "4/4",
+        "date": "Dec. 26, 2023"
+    },
+    {
+        "index": "116",
+        "speed": "56 WPM",
+        "accuracy": "95.3%",
+        "points": "50",
+        "place": "3/5",
+        "date": "Dec. 26, 2023"
+    },
+    {
+        "index": "115",
+        "speed": "65 WPM",
+        "accuracy": "97.2%",
+        "points": "42",
+        "place": "2/5",
+        "date": "Dec. 26, 2023"
+    },
+    {
+        "index": "114",
+        "speed": "54 WPM",
+        "accuracy": "95.1%",
+        "points": "37",
+        "place": "2/5",
+        "date": "Dec. 26, 2023"
+    },
+    {
+        "index": "113",
+        "speed": "58 WPM",
+        "accuracy": "96.4%",
+        "points": "86",
+        "place": "4/5",
+        "date": "Dec. 26, 2023"
+    },
+    {
+        "index": "112",
+        "speed": "65 WPM",
+        "accuracy": "96.7%",
+        "points": "56",
+        "place": "4/5",
+        "date": "Dec. 26, 2023"
+    },
+    {
+        "index": "111",
+        "speed": "47 WPM",
+        "accuracy": "95.5%",
+        "points": "52",
+        "place": "2/5",
+        "date": "Dec. 26, 2023"
+    },
+    {
+        "index": "110",
+        "speed": "51 WPM",
+        "accuracy": "93.8%",
+        "points": "29",
+        "place": "4/4",
+        "date": "Dec. 26, 2023"
+    },
+    {
+        "index": "109",
+        "speed": "50 WPM",
+        "accuracy": "94.0%",
+        "points": "35",
+        "place": "4/5",
+        "date": "Dec. 26, 2023"
+    },
+    {
+        "index": "108",
+        "speed": "54 WPM",
+        "accuracy": "93.9%",
+        "points": "33",
+        "place": "2/5",
+        "date": "Dec. 26, 2023"
+    },
+    {
+        "index": "107",
+        "speed": "56 WPM",
+        "accuracy": "94.0%",
+        "points": "58",
+        "place": "2/5",
+        "date": "Dec. 26, 2023"
+    },
+    {
+        "index": "106",
+        "speed": "60 WPM",
+        "accuracy": "95.3%",
+        "points": "49",
+        "place": "3/4",
+        "date": "Dec. 26, 2023"
+    },
+    {
+        "index": "105",
+        "speed": "57 WPM",
+        "accuracy": "94.9%",
+        "points": "41",
+        "place": "2/5",
+        "date": "Dec. 26, 2023"
+    },
+    {
+        "index": "104",
+        "speed": "62 WPM",
+        "accuracy": "96.4%",
+        "points": "56",
+        "place": "4/5",
+        "date": "Dec. 26, 2023"
+    },
+    {
+        "index": "103",
+        "speed": "55 WPM",
+        "accuracy": "95.2%",
+        "points": "40",
+        "place": "3/5",
+        "date": "Dec. 26, 2023"
+    },
+    {
+        "index": "102",
+        "speed": "57 WPM",
+        "accuracy": "95.6%",
+        "points": "33",
+        "place": "3/5",
+        "date": "Dec. 26, 2023"
+    },
+    {
+        "index": "101",
+        "speed": "56 WPM",
+        "accuracy": "95.4%",
+        "points": "26",
+        "place": "5/5",
+        "date": "Dec. 26, 2023"
+    },
+    {
+        "index": "100",
+        "speed": "64 WPM",
+        "accuracy": "96.7%",
+        "points": "50",
+        "place": "4/5",
+        "date": "Dec. 26, 2023"
+    },
+    {
+        "index": "99",
+        "speed": "57 WPM",
+        "accuracy": "94.5%",
+        "points": "44",
+        "place": "4/5",
+        "date": "Dec. 26, 2023"
+    },
+    {
+        "index": "98",
+        "speed": "52 WPM",
+        "accuracy": "94.6%",
+        "points": "71",
+        "place": "3/5",
+        "date": "Dec. 26, 2023"
+    },
+    {
+        "index": "97",
+        "speed": "52 WPM",
+        "accuracy": "93.5%",
+        "points": "41",
+        "place": "2/4",
+        "date": "Dec. 26, 2023"
+    },
+    {
+        "index": "96",
+        "speed": "60 WPM",
+        "accuracy": "95.0%",
+        "points": "48",
+        "place": "2/5",
+        "date": "Dec. 26, 2023"
+    },
+    {
+        "index": "95",
+        "speed": "54 WPM",
+        "accuracy": "95.7%",
+        "points": "55",
+        "place": "1/5",
+        "date": "Dec. 26, 2023"
+    },
+    {
+        "index": "94",
+        "speed": "55 WPM",
+        "accuracy": "95.0%",
+        "points": "56",
+        "place": "1/3",
+        "date": "Dec. 26, 2023"
+    },
+    {
+        "index": "93",
+        "speed": "53 WPM",
+        "accuracy": "94.1%",
+        "points": "53",
+        "place": "3/4",
+        "date": "Dec. 26, 2023"
+    },
+    {
+        "index": "92",
+        "speed": "64 WPM",
+        "accuracy": "96.5%",
+        "points": "28",
+        "place": "4/5",
+        "date": "Dec. 26, 2023"
+    },
+    {
+        "index": "91",
+        "speed": "60 WPM",
+        "accuracy": "95.9%",
+        "points": "52",
+        "place": "2/4",
+        "date": "Dec. 26, 2023"
+    },
+    {
+        "index": "90",
+        "speed": "68 WPM",
+        "accuracy": "96.0%",
+        "points": "27",
+        "place": "2/5",
+        "date": "Dec. 26, 2023"
+    },
+    {
+        "index": "89",
+        "speed": "52 WPM",
+        "accuracy": "93.7%",
+        "points": "65",
+        "place": "3/4",
+        "date": "Dec. 26, 2023"
+    },
+    {
+        "index": "88",
+        "speed": "60 WPM",
+        "accuracy": "95.0%",
+        "points": "52",
+        "place": "2/5",
+        "date": "Dec. 26, 2023"
+    },
+    {
+        "index": "87",
+        "speed": "49 WPM",
+        "accuracy": "93.9%",
+        "points": "20",
+        "place": "4/5",
+        "date": "Dec. 26, 2023"
+    },
+    {
+        "index": "86",
+        "speed": "53 WPM",
+        "accuracy": "93.4%",
+        "points": "52",
+        "place": "4/5",
+        "date": "Dec. 26, 2023"
+    },
+    {
+        "index": "85",
+        "speed": "51 WPM",
+        "accuracy": "95.1%",
+        "points": "29",
+        "place": "3/4",
+        "date": "Dec. 26, 2023"
+    },
+    {
+        "index": "84",
+        "speed": "58 WPM",
+        "accuracy": "94.6%",
+        "points": "58",
+        "place": "3/4",
+        "date": "Dec. 26, 2023"
+    },
+    {
+        "index": "83",
+        "speed": "49 WPM",
+        "accuracy": "92.6%",
+        "points": "29",
+        "place": "5/5",
+        "date": "Dec. 26, 2023"
+    },
+    {
+        "index": "82",
+        "speed": "69 WPM",
+        "accuracy": "97.2%",
+        "points": "64",
+        "place": "2/5",
+        "date": "Dec. 26, 2023"
+    },
+    {
+        "index": "81",
+        "speed": "49 WPM",
+        "accuracy": "93.3%",
+        "points": "19",
+        "place": "4/5",
+        "date": "Dec. 26, 2023"
+    },
+    {
+        "index": "80",
+        "speed": "60 WPM",
+        "accuracy": "93.7%",
+        "points": "40",
+        "place": "4/5",
+        "date": "Dec. 26, 2023"
+    },
+    {
+        "index": "79",
+        "speed": "55 WPM",
+        "accuracy": "94.5%",
+        "points": "72",
+        "place": "3/4",
+        "date": "Dec. 26, 2023"
+    },
+    {
+        "index": "78",
+        "speed": "65 WPM",
+        "accuracy": "95.7%",
+        "points": "39",
+        "place": "2/5",
+        "date": "Dec. 26, 2023"
+    },
+    {
+        "index": "77",
+        "speed": "57 WPM",
+        "accuracy": "95.2%",
+        "points": "26",
+        "place": "3/5",
+        "date": "Dec. 26, 2023"
+    },
+    {
+        "index": "76",
+        "speed": "57 WPM",
+        "accuracy": "94.8%",
+        "points": "38",
+        "place": "1/5",
+        "date": "Dec. 26, 2023"
+    },
+    {
+        "index": "75",
+        "speed": "51 WPM",
+        "accuracy": "94.3%",
+        "points": "36",
+        "place": "2/5",
+        "date": "Dec. 26, 2023"
+    },
+    {
+        "index": "74",
+        "speed": "59 WPM",
+        "accuracy": "95.2%",
+        "points": "47",
+        "place": "2/5",
+        "date": "Dec. 26, 2023"
+    },
+    {
+        "index": "73",
+        "speed": "70 WPM",
+        "accuracy": "98.0%",
+        "points": "34",
+        "place": "1/5",
+        "date": "Dec. 26, 2023"
+    },
+    {
+        "index": "72",
+        "speed": "51 WPM",
+        "accuracy": "94.9%",
+        "points": "35",
+        "place": "5/5",
+        "date": "Dec. 26, 2023"
+    },
+    {
+        "index": "71",
+        "speed": "49 WPM",
+        "accuracy": "92.8%",
+        "points": "24",
+        "place": "3/5",
+        "date": "Dec. 26, 2023"
+    },
+    {
+        "index": "70",
+        "speed": "47 WPM",
+        "accuracy": "94.2%",
+        "points": "53",
+        "place": "3/5",
+        "date": "Dec. 26, 2023"
+    },
+    {
+        "index": "69",
+        "speed": "60 WPM",
+        "accuracy": "95.8%",
+        "points": "67",
+        "place": "2/5",
+        "date": "Dec. 26, 2023"
+    },
+    {
+        "index": "68",
+        "speed": "59 WPM",
+        "accuracy": "95.4%",
+        "points": "32",
+        "place": "3/4",
+        "date": "Dec. 26, 2023"
+    },
+    {
+        "index": "67",
+        "speed": "62 WPM",
+        "accuracy": "96.0%",
+        "points": "59",
+        "place": "1/5",
+        "date": "Dec. 26, 2023"
+    },
+    {
+        "index": "66",
+        "speed": "55 WPM",
+        "accuracy": "95.2%",
+        "points": "23",
+        "place": "1/5",
+        "date": "Dec. 26, 2023"
+    },
+    {
+        "index": "65",
+        "speed": "59 WPM",
+        "accuracy": "95.1%",
+        "points": "44",
+        "place": "3/5",
+        "date": "Dec. 26, 2023"
+    },
+    {
+        "index": "64",
+        "speed": "57 WPM",
+        "accuracy": "93.2%",
+        "points": "50",
+        "place": "2/3",
+        "date": "Dec. 26, 2023"
+    },
+    {
+        "index": "63",
+        "speed": "60 WPM",
+        "accuracy": "95.5%",
+        "points": "52",
+        "place": "2/5",
+        "date": "Dec. 26, 2023"
+    },
+    {
+        "index": "62",
+        "speed": "48 WPM",
+        "accuracy": "94.1%",
+        "points": "50",
+        "place": "3/5",
+        "date": "Dec. 26, 2023"
+    },
+    {
+        "index": "61",
+        "speed": "49 WPM",
+        "accuracy": "94.9%",
+        "points": "25",
+        "place": "3/5",
+        "date": "Dec. 26, 2023"
+    },
+    {
+        "index": "60",
+        "speed": "54 WPM",
+        "accuracy": "95.2%",
+        "points": "31",
+        "place": "3/5",
+        "date": "Dec. 26, 2023"
+    },
+    {
+        "index": "59",
+        "speed": "59 WPM",
+        "accuracy": "95.6%",
+        "points": "56",
+        "place": "1/5",
+        "date": "Dec. 26, 2023"
+    },
+    {
+        "index": "58",
+        "speed": "58 WPM",
+        "accuracy": "96.3%",
+        "points": "66",
+        "place": "2/4",
+        "date": "Dec. 26, 2023"
+    },
+    {
+        "index": "57",
+        "speed": "56 WPM",
+        "accuracy": "95.0%",
+        "points": "99",
+        "place": "3/5",
+        "date": "Dec. 26, 2023"
+    },
+    {
+        "index": "56",
+        "speed": "63 WPM",
+        "accuracy": "96.2%",
+        "points": "32",
+        "place": "1/4",
+        "date": "Dec. 26, 2023"
+    },
+    {
+        "index": "55",
+        "speed": "67 WPM",
+        "accuracy": "96.0%",
+        "points": "27",
+        "place": "1/5",
+        "date": "Dec. 26, 2023"
+    },
+    {
+        "index": "54",
+        "speed": "61 WPM",
+        "accuracy": "96.1%",
+        "points": "53",
+        "place": "1/5",
+        "date": "Dec. 26, 2023"
+    },
+    {
+        "index": "53",
+        "speed": "54 WPM",
+        "accuracy": "94.6%",
+        "points": "61",
+        "place": "2/3",
+        "date": "Dec. 26, 2023"
+    },
+    {
+        "index": "52",
+        "speed": "59 WPM",
+        "accuracy": "95.5%",
+        "points": "19",
+        "place": "1/2",
+        "date": "Dec. 26, 2023"
+    },
+    {
+        "index": "51",
+        "speed": "56 WPM",
+        "accuracy": "95.4%",
+        "points": "50",
+        "place": "2/5",
+        "date": "Dec. 26, 2023"
+    },
+    {
+        "index": "50",
+        "speed": "57 WPM",
+        "accuracy": "95.3%",
+        "points": "70",
+        "place": "3/4",
+        "date": "Dec. 26, 2023"
+    },
+    {
+        "index": "49",
+        "speed": "53 WPM",
+        "accuracy": "93.7%",
+        "points": "57",
+        "place": "3/5",
+        "date": "Dec. 26, 2023"
+    },
+    {
+        "index": "48",
+        "speed": "62 WPM",
+        "accuracy": "95.9%",
+        "points": "62",
+        "place": "1/5",
+        "date": "Dec. 26, 2023"
+    },
+    {
+        "index": "47",
+        "speed": "60 WPM",
+        "accuracy": "96.5%",
+        "points": "50",
+        "place": "1/4",
+        "date": "Dec. 26, 2023"
+    },
+    {
+        "index": "46",
+        "speed": "55 WPM",
+        "accuracy": "95.1%",
+        "points": "37",
+        "place": "2/5",
+        "date": "Dec. 26, 2023"
+    },
+    {
+        "index": "45",
+        "speed": "54 WPM",
+        "accuracy": "95.1%",
+        "points": "42",
+        "place": "2/4",
+        "date": "Dec. 26, 2023"
+    },
+    {
+        "index": "44",
+        "speed": "54 WPM",
+        "accuracy": "94.9%",
+        "points": "52",
+        "place": "2/5",
+        "date": "Dec. 26, 2023"
+    },
+    {
+        "index": "43",
+        "speed": "65 WPM",
+        "accuracy": "96.7%",
+        "points": "33",
+        "place": "3/5",
+        "date": "Dec. 26, 2023"
+    },
+    {
+        "index": "42",
+        "speed": "56 WPM",
+        "accuracy": "95.7%",
+        "points": "43",
+        "place": "4/4",
+        "date": "Dec. 26, 2023"
+    },
+    {
+        "index": "41",
+        "speed": "59 WPM",
+        "accuracy": "97.4%",
+        "points": "51",
+        "place": "2/4",
+        "date": "Dec. 26, 2023"
+    },
+    {
+        "index": "40",
+        "speed": "51 WPM",
+        "accuracy": "93.9%",
+        "points": "50",
+        "place": "3/5",
+        "date": "Dec. 26, 2023"
+    },
+    {
+        "index": "39",
+        "speed": "60 WPM",
+        "accuracy": "96.6%",
+        "points": "35",
+        "place": "1/5",
+        "date": "Dec. 26, 2023"
+    },
+    {
+        "index": "38",
+        "speed": "52 WPM",
+        "accuracy": "94.0%",
+        "points": "56",
+        "place": "2/4",
+        "date": "Dec. 26, 2023"
+    },
+    {
+        "index": "37",
+        "speed": "61 WPM",
+        "accuracy": "96.0%",
+        "points": "50",
+        "place": "2/4",
+        "date": "Dec. 26, 2023"
+    },
+    {
+        "index": "36",
+        "speed": "54 WPM",
+        "accuracy": "95.3%",
+        "points": "54",
+        "place": "3/4",
+        "date": "Dec. 26, 2023"
+    },
+    {
+        "index": "35",
+        "speed": "57 WPM",
+        "accuracy": "94.6%",
+        "points": "52",
+        "place": "5/5",
+        "date": "Dec. 25, 2023"
+    },
+    {
+        "index": "34",
+        "speed": "50 WPM",
+        "accuracy": "93.6%",
+        "points": "44",
+        "place": "3/4",
+        "date": "Dec. 25, 2023"
+    },
+    {
+        "index": "33",
+        "speed": "65 WPM",
+        "accuracy": "94.9%",
+        "points": "32",
+        "place": "1/5",
+        "date": "Dec. 25, 2023"
+    },
+    {
+        "index": "32",
+        "speed": "49 WPM",
+        "accuracy": "93.5%",
+        "points": "40",
+        "place": "5/5",
+        "date": "Dec. 25, 2023"
+    },
+    {
+        "index": "31",
+        "speed": "51 WPM",
+        "accuracy": "93.2%",
+        "points": "43",
+        "place": "3/5",
+        "date": "Dec. 25, 2023"
+    },
+    {
+        "index": "30",
+        "speed": "59 WPM",
+        "accuracy": "94.8%",
+        "points": "73",
+        "place": "3/4",
+        "date": "Dec. 25, 2023"
+    },
+    {
+        "index": "29",
+        "speed": "65 WPM",
+        "accuracy": "96.6%",
+        "points": "37",
+        "place": "3/5",
+        "date": "Dec. 25, 2023"
+    },
+    {
+        "index": "28",
+        "speed": "48 WPM",
+        "accuracy": "94.9%",
+        "points": "54",
+        "place": "4/5",
+        "date": "Dec. 25, 2023"
+    },
+    {
+        "index": "27",
+        "speed": "52 WPM",
+        "accuracy": "93.7%",
+        "points": "54",
+        "place": "4/5",
+        "date": "Dec. 25, 2023"
+    },
+    {
+        "index": "26",
+        "speed": "60 WPM",
+        "accuracy": "95.1%",
+        "points": "52",
+        "place": "4/5",
+        "date": "Dec. 25, 2023"
+    },
+    {
+        "index": "25",
+        "speed": "50 WPM",
+        "accuracy": "94.3%",
+        "points": "48",
+        "place": "3/4",
+        "date": "Dec. 25, 2023"
+    },
+    {
+        "index": "24",
+        "speed": "57 WPM",
+        "accuracy": "94.8%",
+        "points": "58",
+        "place": "4/4",
+        "date": "Dec. 25, 2023"
+    },
+    {
+        "index": "23",
+        "speed": "56 WPM",
+        "accuracy": "95.2%",
+        "points": "28",
+        "place": "4/5",
+        "date": "Dec. 25, 2023"
+    },
+    {
+        "index": "22",
+        "speed": "65 WPM",
+        "accuracy": "96.1%",
+        "points": "76",
+        "place": "2/5",
+        "date": "Dec. 25, 2023"
+    },
+    {
+        "index": "21",
+        "speed": "59 WPM",
+        "accuracy": "95.6%",
+        "points": "61",
+        "place": "2/5",
+        "date": "Dec. 25, 2023"
+    },
+    {
+        "index": "20",
+        "speed": "56 WPM",
+        "accuracy": "95.4%",
+        "points": "76",
+        "place": "2/3",
+        "date": "Dec. 25, 2023"
+    },
+    {
+        "index": "19",
+        "speed": "43 WPM",
+        "accuracy": "94.0%",
+        "points": "43",
+        "place": "2/4",
+        "date": "Dec. 25, 2023"
+    },
+    {
+        "index": "18",
+        "speed": "56 WPM",
+        "accuracy": "95.4%",
+        "points": "48",
+        "place": "4/5",
+        "date": "Dec. 25, 2023"
+    },
+    {
+        "index": "17",
+        "speed": "57 WPM",
+        "accuracy": "95.7%",
+        "points": "52",
+        "place": "1/3",
+        "date": "Dec. 25, 2023"
+    },
+    {
+        "index": "16",
+        "speed": "58 WPM",
+        "accuracy": "96.7%",
+        "points": "66",
+        "place": "1/3",
+        "date": "Dec. 25, 2023"
+    },
+    {
+        "index": "15",
+        "speed": "58 WPM",
+        "accuracy": "95.8%",
+        "points": "32",
+        "place": "4/5",
+        "date": "Dec. 25, 2023"
+    },
+    {
+        "index": "14",
+        "speed": "53 WPM",
+        "accuracy": "94.3%",
+        "points": "60",
+        "place": "1/5",
+        "date": "Dec. 24, 2023"
+    },
+    {
+        "index": "13",
+        "speed": "50 WPM",
+        "accuracy": "93.8%",
+        "points": "48",
+        "place": "2/3",
+        "date": "Dec. 24, 2023"
+    },
+    {
+        "index": "12",
+        "speed": "60 WPM",
+        "accuracy": "95.9%",
+        "points": "62",
+        "place": "2/5",
+        "date": "Dec. 24, 2023"
+    },
+    {
+        "index": "11",
+        "speed": "53 WPM",
+        "accuracy": "95.6%",
+        "points": "79",
+        "place": "2/5",
+        "date": "Dec. 24, 2023"
+    },
+    {
+        "index": "10",
+        "speed": "52 WPM",
+        "accuracy": "96.5%",
+        "points": "46",
+        "place": "4/5",
+        "date": "Dec. 24, 2023"
+    },
+    {
+        "index": "9",
+        "speed": "58 WPM",
+        "accuracy": "96.5%",
+        "points": "52",
+        "place": "2/4",
+        "date": "Dec. 24, 2023"
+    },
+    {
+        "index": "8",
+        "speed": "54 WPM",
+        "accuracy": "95.7%",
+        "points": "43",
+        "place": "2/3",
+        "date": "Dec. 24, 2023"
+    },
+    {
+        "index": "7",
+        "speed": "52 WPM",
+        "accuracy": "94.8%",
+        "points": "44",
+        "place": "3/5",
+        "date": "Dec. 24, 2023"
+    },
+    {
+        "index": "6",
+        "speed": "60 WPM",
+        "accuracy": "95.3%",
+        "points": "59",
+        "place": "5/5",
+        "date": "Dec. 24, 2023"
+    },
+    {
+        "index": "5",
+        "speed": "54 WPM",
+        "accuracy": "96.1%",
+        "points": "36",
+        "place": "2/3",
+        "date": "Dec. 24, 2023"
+    },
+    {
+        "index": "4",
+        "speed": "55 WPM",
+        "accuracy": "95.2%",
+        "points": "81",
+        "place": "2/4",
+        "date": "Dec. 24, 2023"
+    },
+    {
+        "index": "3",
+        "speed": "53 WPM",
+        "accuracy": "94.2%",
+        "points": "99",
+        "place": "4/4",
+        "date": "Dec. 24, 2023"
+    },
+    {
+        "index": "2",
+        "speed": "58 WPM",
+        "accuracy": "95.4%",
+        "points": "36",
+        "place": "4/5",
+        "date": "Dec. 24, 2023"
+    },
+    {
+        "index": "1",
+        "speed": "58 WPM",
+        "accuracy": "95.0%",
+        "points": "22",
+        "place": "1/4",
+        "date": "Dec. 24, 2023"
+    }
+]
